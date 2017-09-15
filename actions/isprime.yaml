@@ -1,0 +1,10 @@
+---
+description: Check if an integer is prime.
+pack: "lib_test"
+enabled: true
+entry_point: isprime.py
+name: isprime
+parameters:
+  value:
+    type: integer
+runner_type: "python-script"
